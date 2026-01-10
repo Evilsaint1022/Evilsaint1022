@@ -13,6 +13,5 @@ This project helps me understand real-world concepts like event handling, asynch
 
 I enjoy improving the bot’s structure, adding new features, and learning best practices along the way.
 
-
-![Made With Love](https://img.shields.io/badge/Made%20With-❤️-white?style=for-the-badge)
-![Powered By Coffee](https://img.shields.io/badge/Powered%20By-Coffee-6F4E37?style=for-the-badge)
+- `Made with ❤️`
+- `Powered by Coffee`
