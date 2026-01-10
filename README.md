@@ -6,7 +6,7 @@
 
 Hello, My name is William and im learnings JavaScript as a Hobbie.
 
-- Owner of the Four-Square Coummunity Discord Server.
+- Owner of the [Four-Square](https://discord.com/invite/f4waCZD324) Coummunity Discord Server.
 
 ’Im currenty maintaning the [CheekyCharlie](https://github.com/Evilsaint1022/CheekyCharlie) Repo and learning JavaScript by building and maintaining a Discord bot.  
 This project helps me understand real-world concepts like event handling, asynchronous code, file-based data storage, and API interactions.
