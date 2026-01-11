@@ -3,8 +3,13 @@
 
 Hello, My name is William and im learnings JavaScript as a Hobbie.
 
-- Owner of the [Four-Square](https://discord.com/invite/f4waCZD324) Coummunity Discord Server.
+# 🌿<ins>**Four-Square Discord Server**</ins>🌿
+Owner of the four-Square discord community server that also doubles as a support server for cheekycharlie.  
+cheekycharlie is what keeps this server running with all the features that me and `nz_linix` have added over time.
 
+- 🌿 [You can Join Here!](https://discord.com/invite/f4waCZD324)
+
+# 🌿<ins>**About me**</ins>🌿
 ’Im currenty maintaning the [CheekyCharlie](https://github.com/Evilsaint1022/CheekyCharlie) Repo and learning JavaScript by building and maintaining a Discord bot.  
 This project helps me understand real-world concepts like event handling, asynchronous code, file-based data storage, and API interactions.
 
