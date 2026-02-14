@@ -17,5 +17,10 @@ This project helps me understand real-world concepts like event handling, asynch
 
 I enjoy improving the bot’s structure, adding new features, and learning best practices along the way.
 
+# <ins>**Repositories**</ins>
+- [CheekyCharlie](https://github.com/Evilsaint1022/CheekyCharlie) - Cheekycharlie is a modular discord bot.
+- [Http Server](https://github.com/Evilsaint1022/CustomHTTP) - Http server for file transfering or listening or watching media on another device.
+- [SilverFern](https://github.com/Evilsaint1022/SilverFern-NZ) - Old Discord Bot but is now Archived.
+
 - `Made with ❤️`
 - `Powered by Coffee`
