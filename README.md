@@ -9,7 +9,7 @@ Hello, My name is William and im learnings JavaScript as a Hobbie.
 Owner of the four-Square discord community server that also doubles as a support server for cheekycharlie.  
 cheekycharlie is what keeps this server running with all the features that me and `nz_linix` have added over time.
 
-🌿 [You can Join Here!](https://discord.com/invite/f4waCZD324) 🌿
+- [You can Join Here!](https://discord.com/invite/f4waCZD324) ❤️
 
 # <ins>**About me**</ins>
 ’Im currenty maintaning the [CheekyCharlie](https://github.com/Evilsaint1022/CheekyCharlie) Repo and learning JavaScript by building and maintaining a Discord bot.  
@@ -19,5 +19,5 @@ I enjoy improving the bot’s structure, adding new features, and learning best 
 
 # <ins>**Repositories**</ins>
 - [CheekyCharlie](https://github.com/Evilsaint1022/CheekyCharlie) - Cheekycharlie is a modular discord bot.
-- [Http Server](https://github.com/Evilsaint1022/CustomHTTP) - Http server for file transfering or listening or watching media on another device.
-- [SilverFern](https://github.com/Evilsaint1022/SilverFern-NZ) - Old Discord Bot but is now Archived.
+- [CustomHTTP](https://github.com/Evilsaint1022/CustomHTTP) - Http server for file transfering or listening or watching media on another device.
+- [SilverFern-NZ](https://github.com/Evilsaint1022/SilverFern-NZ) - Old Discord Bot but is now Archived.
