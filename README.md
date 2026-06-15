@@ -1,16 +1,3 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="src/Profile/evilsaint1022.png" alt="evilsaint1022" height="100">
-    </td>
-    <td>
-      <h1> Evilsaint1022 </h1>
-    </td>
-  </tr>
-</table>
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
-
 Welcome to my github profile, This is where i will post my open-source projects.
 
 <h3> <ins>Current Projects</ins> </h3>
