@@ -2,8 +2,8 @@
 
 <h3> <ins>About me</ins> </h3>
 
-- <ins>Age</ins> `28`  
-- <ins>Country</ins> `New Zealand`  
+<ins>Age</ins> `28`  
+<ins>Country</ins> `New Zealand`  
 
 <h3> <ins>Current Projects</ins> </h3>
 
