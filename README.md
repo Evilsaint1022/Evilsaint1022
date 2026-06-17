@@ -20,13 +20,13 @@
 
 <h3> <ins>Current Projects</ins> </h3>
 
-[`CheekyCharlie`](https://github.com/Evilsaint1022/CheekyCharlie)  
+✅[`CheekyCharlie`](https://github.com/Evilsaint1022/CheekyCharlie)  
 A modular Discord bot built as a fun hobby project! This bot is completely open-source to promote transparency and inspire others to create their own bots. Created by Evilsaint1022 (Owner, Developer) and NZ-Linix (Developer)  
-[`Raspberry`](https://github.com/Evilsaint1022/Raspberry)  
+✅[`Raspberry`](https://github.com/Evilsaint1022/Raspberry)  
 This is a simple Discord reaction bot, developed primarily for the purpose of learning how to host applications on a Raspberry Pi.  
-[`CustomHTTP`](https://github.com/Evilsaint1022/CustomHTTP)  
+✅[`CustomHTTP`](https://github.com/Evilsaint1022/CustomHTTP)  
 A Customized HTTP Server, was made for personal use.  
-[`LIFX-CLI`](https://github.com/Evilsaint1022/LIFX-CLI)  
+✅[`LIFX-CLI`](https://github.com/Evilsaint1022/LIFX-CLI)  
 This is a Command Line Interface for a LIFX light bulb.  
 
 <h3> <ins>Contact me</ins> </h3>
