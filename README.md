@@ -19,7 +19,7 @@ This is a simple Discord reaction bot, developed primarily for the purpose of le
 🌿・[`CustomHTTP`](https://github.com/Evilsaint1022/CustomHTTP) - _A Customized HTTP Server, was made for personal use._  
 🌿・[`LIFX-CLI`](https://github.com/Evilsaint1022/LIFX-CLI) - _This is a Command Line Interface for a LIFX light bulb._  
 
-<ins>Contact me:</ins>   
-`evilsaint1022@gmail.com`  
+***<ins>Contact me:</ins>***   
+_`evilsaint1022@gmail.com`_  
 
 ***-----------------------------------------------------------------------------------------------------------------------***
