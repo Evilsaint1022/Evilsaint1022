@@ -5,7 +5,7 @@
 _Welcome to my github profile, This is where i will post my open-source projects._
 
 ### <ins>Main Projects:</ins>   
-🌿・[`CheekyCharlie`](https://github.com/Evilsaint1022/CheekyCharlie) - _A modular Discord bot built as a fun hobby project! This bot is completely open-source to promote transparency and inspire others to create their own bots. Created by Evilsaint1022 (Owner, Developer) and NZ-Linix (Developer)_   
+🌿・[`CheekyCharlie`](https://github.com/Evilsaint1022/CheekyCharlie) - _A modular Discord bot built as a fun hobby project! This bot is completely open-source to promote transparency and inspire others to create their own bots. Created by Evilsaint1022 (Owner, Developer) and NZ-Linix (Owner, Developer)_   
 
 ### <ins>Secondary Projects:</ins>   
 🌿・[`CustomHTTP`](https://github.com/Evilsaint1022/CustomHTTP) - _A Customized HTTP Server, was made for personal use._  
