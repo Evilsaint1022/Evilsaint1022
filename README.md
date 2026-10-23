@@ -14,5 +14,5 @@ _Welcome to my github profile, This is where i will post my open-source projects
 ### <ins>Contributing Projects:</ins>   
 🛡️・[`Tresor`](https://github.com/NZ-Linix/tresor) - _Protecting Your Discord Server._
 
-***<ins>Contact me:</ins>***   
-_`evilsaint1022@gmail.com`_   
+***<ins>Contact & Enquiries</ins>***   
+📧・_evilsaint1022@gmail.com_
